@@ -1,3 +1,18 @@
 h1{
     color: red;
 }
+
+#home-intro{
+    text-align: center;
+   /* padding: 3px;
+    border-color:black;
+    border-style:solid;
+    background-colour: grey;*/
+    border:3px solid blue;
+}
+#home-intro:hover{
+    background-color:aqua;
+}
+#p1{
+    color:blue;
+}
